@@ -1,0 +1,14 @@
+{
+	"cookie": "",
+	"apikey": "",
+	"heroku": false,
+	"bumper": {
+		"delay": 65,
+		"timewait": 20
+	},
+	"alerts": {
+		"active": false,
+		"discord": false,
+		"url": ""
+	}
+}
